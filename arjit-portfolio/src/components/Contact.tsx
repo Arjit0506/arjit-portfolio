@@ -11,13 +11,13 @@ export default function Contact() {
 
         <div className="mt-8 flex flex-wrap gap-3">
           <a
-            href="mailto:arjit@example.com"
+            href="mailto:arjitjain0506@gmail.com"
             className="inline-flex items-center rounded-lg bg-white px-4 py-2.5 text-sm font-medium text-neutral-900 hover:bg-white/90 transition"
           >
             Email me
           </a>
           <a
-            href="https://github.com/arjitjain"
+            href="https://github.com/Arjit0506"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center rounded-lg border border-white/10 bg-white/5 px-4 py-2.5 text-sm font-medium text-white/85 hover:text-white hover:bg-white/10 transition"
@@ -25,7 +25,7 @@ export default function Contact() {
             GitHub
           </a>
           <a
-            href="https://linkedin.com/in/arjitjain"
+            href="https://www.linkedin.com/in/arjit-jain-a3702922b/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center rounded-lg border border-white/10 bg-white/5 px-4 py-2.5 text-sm font-medium text-white/85 hover:text-white hover:bg-white/10 transition"
