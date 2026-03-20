@@ -13,7 +13,7 @@ export const projects: Project[] = [
     description:
       "Deepfake detection tool using facial recognition and confidence scoring, built as part of your AI/ML work.",
     tech: ["Python", "Flask", "MediaPipe", "AI/ML"],
-    repoUrl: "https://github.com/Arjit0506/Deep-Fake-detection-webapp",
+    repoUrl: "https://github.com/Arjit0506/Deepfake-video-detector",
     highlight: "Deepfake detection • confidence scoring",
   },
   {
@@ -21,7 +21,7 @@ export const projects: Project[] = [
     description:
       "Comprehensive system for managing animal rescue operations, including pet adoption, medical records, and volunteer coordination.",
     tech: ["React", "Node.js", "MongoDB", "Express"],
-    repoUrl: "https://github.com/Arjit0506/animal-rescue-management",
+    repoUrl: "https://github.com/Arjit0506/animal-rescue-agency-portal",
     demoUrl: "https://animal-rescue-agency-portal.vercel.app/",
     highlight: "Animal welfare • adoption system",
   },
@@ -39,7 +39,7 @@ export const projects: Project[] = [
     description:
       "Online voting and survey system with candidate addition and result view, matching the platform described in your resume.",
     tech: ["HTML", "CSS", "JavaScript", "Node.js"],
-    repoUrl: "https://github.com/Arjit0506/online-voting-platform",
+    repoUrl: "https://github.com/Arjit0506/Online-Election-Platform-using-node",
     demoUrl: "https://online-election-platform-using-node.vercel.app/",
     highlight: "E-voting • survey management",
   },
