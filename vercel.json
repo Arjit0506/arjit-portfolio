@@ -1,0 +1,7 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "cd arjit-portfolio && npm run build",
+  "devCommand": "cd arjit-portfolio && npm run dev",
+  "installCommand": "cd arjit-portfolio && npm install",
+  "outputDirectory": "arjit-portfolio/.next"
+}
